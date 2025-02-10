@@ -25,7 +25,7 @@ public class Delimiters {
     /** Returns true if the delimiters are balanced and false otherwise, as described in part (b).
      *  Precondition: delimiters contains only valid open and close delimiters.
      */
-    public boolean isBalanced(String[] delimiters) {
+    public boolean isBalanced(ArrayList<String> delimiters) {
         /* to be implemented in part (b) */
         return false;
     }
